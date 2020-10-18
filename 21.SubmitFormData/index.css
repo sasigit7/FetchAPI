@@ -1,0 +1,29 @@
+input {
+    display: block;
+    margin: 15px;
+}
+
+h1 {
+    background-color: rgb(186, 132, 236);
+    padding: 10px;
+    border: 1px groove red;
+}
+
+p {
+    background-color: beige;
+    padding: 7px;
+    border: 1px solid black;
+}
+
+#userForm {
+    background-color: aquamarine;
+    padding: 70px;
+    border: 2px double black;
+    float: right;
+}
+
+#submit {
+background-color: rgb(173, 173, 224);
+margin: 0 auto;
+padding: 6px;
+}
